@@ -11,10 +11,9 @@
 - 💻 I’m a **Frontend Developer** with 3+ years of experience  
 - 🌱 Currently exploring **Next.js & AI-driven applications**
 - 📫 Reach me at: **kaduromee@gmail.com**
-- 💬 Ask me about **React, Next.js, TypeScript, and frontend performance**  
-<!---  
-- ✍️ I share articles & tutorials on [TechTalksWithOmee](https://techtalkswithomee.com/)
-[//]: # - 📄 See my work & experience: [My Portfolio](https://profile.techtalkswithomee.com/)  -->
+- 💬 Ask me about **React, Next.js, TypeScript, and frontend performance**
+- 📄 See my work & experience: [My Portfolio](https://omprakashkm-portfolio.vercel.app) 
+<!--- - ✍️ I share articles & tutorials on [TechTalksWithOmee](https://techtalkswithomee.com/) -->
 
 ---
 
