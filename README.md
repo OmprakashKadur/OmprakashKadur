@@ -43,6 +43,53 @@ const omprakash = {
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/omprakashkadur/DevLens">DevLens</a></h3>
+      <p>A modern GitHub profile analyzer with rich data visualizations. Explore developer stats, language breakdowns, and contribution patterns in a beautiful dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://dev-lens.vercel.app">🌐 Live Demo</a> • <a href="https://github.com/omprakashkadur/DevLens">💻 Code</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/omprakashkadur/spoken-flow">Spoken Flow</a></h3>
+      <p>An AI-powered English learning app with structured lessons, progress tracking, and audio recording capabilities. Built for immersive language practice.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/MediaRecorder_API-FF6C37?style=flat" />
+      </p>
+      <p>
+        <a href="https://spoken-flow.vercel.app">🌐 Live Demo</a> • <a href="https://github.com/omprakashkadur/spoken-flow">💻 Code</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/omprakashkadur/techtalkswithomee_portfolio">Portfolio</a></h3>
+      <p>My personal brand website showcasing projects, blog posts, and professional journey. Built with performance and accessibility in mind.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://techtalkswithomee-portfolio.vercel.app">🌐 Live Demo</a> • <a href="https://github.com/omprakashkadur/techtalkswithomee_portfolio">💻 Code</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Tech Stack
 
 ### 🖥️ Frontend
