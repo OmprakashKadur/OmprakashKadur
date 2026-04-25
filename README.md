@@ -57,7 +57,7 @@ const omprakash = {
         <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white" />
       </p>
       <p>
-        <a href="https://dev-lens.vercel.app">🌐 Live Demo</a> • <a href="https://github.com/omprakashkadur/DevLens">💻 Code</a>
+        <a href="https://github.com/omprakashkadur/DevLens">💻 Code</a>
       </p>
     </td>
     <td width="33%" valign="top">
