@@ -35,8 +35,11 @@ const omprakash = {
   email: "kaduromee@gmail.com",
   askMeAbout: ["React", "Next.js", "TypeScript", "Frontend Performance"],
   funFact: "I turn caffeine into pixel-perfect UIs ☕→🎨",
+  openToWork: true,
 };
 ```
+
+> 💼 **I'm currently open to new opportunities** — let's build something amazing together!
 
 ---
 
