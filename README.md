@@ -1,55 +1,130 @@
-<h1 align="center">Hi 👋, I'm Omprakash K M</h1>
-<h3 align="center">🚀 Frontend Developer | React & Next.js | Building Scalable UIs</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omprakashkadur&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Omprakash%20K%20M&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%20%7C%20AI-Powered%20Apps&descSize=17&descAlignY=58&animation=fadeIn" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Building+Scalable+UIs+%F0%9F%9A%80;Next.js+%7C+React+%7C+TypeScript+%E2%9A%A1;AI-Powered+Application+Developer+%F0%9F%A4%96;3%2B+Years+of+Frontend+Excellence+%F0%9F%8C%9F" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=omprakashkadur&label=Profile+Views&color=7C3AED&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/omprakashkadur?label=Followers&style=for-the-badge&color=7C3AED&labelColor=1a1a2e" />
+</p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```typescript
+const omprakash = {
+  role: "Frontend Developer",
+  experience: "3+ years",
+  location: "Bengaluru, India 🇮🇳",
+  currentFocus: ["Next.js", "AI-driven Applications", "Scalable UI Systems"],
+  portfolio: "https://techtalkswithomee.com",
+  email: "kaduromee@gmail.com",
+  askMeAbout: ["React", "Next.js", "TypeScript", "Frontend Performance"],
+  funFact: "I turn caffeine into pixel-perfect UIs ☕→🎨",
+};
+```
+
+---
+
+## 🚀 Tech Stack
+
+### 🖥️ Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🎨 Styling & UI
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
+
+### 🗄️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🤖 AI & Tools
+<p>
+  <img src="https://img.shields.io/badge/Claude_AI-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
+
+### 🛠️ Dev Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 💻 I’m a **Frontend Developer** with 3+ years of experience  
-- 🌱 Currently exploring **Next.js & AI-driven applications**
-- 📫 Reach me at: **kaduromee@gmail.com**
-- 💬 Ask me about **React, Next.js, TypeScript, and frontend performance**
-- 📄 See my work & experience: [My Portfolio](https://omprakashkm-portfolio.vercel.app) 
-<!--- - ✍️ I share articles & tutorials on [TechTalksWithOmee](https://techtalkswithomee.com/) -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omprakashkadur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashkadur&theme=tokyonight&hide_border=true" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=omprakashkadur&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/omprakash-k-m-926218231" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/kadur_omee" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omprakashkadur&theme=tokyonight&no-frame=true&column=6&margin-w=4" />
+</div>
 
 ---
 
-### ⚒️ Languages & Tools
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="45" height="45"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omprakashkadur&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🤝 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omprakashkadur&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
+<div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://techtalkswithomee.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omprakash-k-m-926218231)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kadur_omee)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaduromee@gmail.com)
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+  
+  <sub>⭐ If you find my work interesting, consider giving my repos a star!</sub>
+</div>
