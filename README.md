@@ -146,7 +146,7 @@ const omprakash = {
 
 <div align="center">
 
-<p>I'm currently <strong>open to new opportunities</strong> — full-time frontend roles, freelance projects, or collaborations.</p>
+<p>I'm currently <strong>open to new opportunities</strong> — full-time frontend roles, freelance projects, or collaborations</p>
 
 <p>
   <a href="https://techtalkswithomee.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
