@@ -142,14 +142,18 @@ const omprakash = {
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Build Something Together
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://techtalkswithomee.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omprakash-k-m-926218231)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kadur_omee)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaduromee@gmail.com)
+<p>I'm currently <strong>open to new opportunities</strong> — full-time frontend roles, freelance projects, or collaborations.</p>
+
+<p>
+  <a href="https://techtalkswithomee.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/omprakash-k-m-926218231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/kadur_omee"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:kaduromee@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -157,6 +161,6 @@ const omprakash = {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-  
+
   <sub>⭐ If you find my work interesting, consider giving my repos a star!</sub>
 </div>
