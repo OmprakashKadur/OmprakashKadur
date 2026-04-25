@@ -10,6 +10,9 @@
 
 <br/>
 
+<!-- One-liner hook -->
+<p><i>I build AI-powered web apps that feel magical ✨</i></p>
+
 <!-- Profile Views & Followers -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=omprakashkadur&label=Profile+Views&color=7C3AED&style=for-the-badge" />
