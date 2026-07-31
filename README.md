@@ -1,166 +1,160 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Omprakash%20K%20M&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%20%7C%20AI-Powered%20Apps&descSize=17&descAlignY=58&animation=fadeIn" />
+```
+  ██████╗ ███╗   ███╗██████╗ ██████╗  █████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗
+ ██╔═══██╗████╗ ████║██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██╔════╝██║  ██║
+ ██║   ██║██╔████╔██║██████╔╝██████╔╝███████║█████═╝ ███████║███████╗███████║
+ ██║   ██║██║╚██╔╝██║██╔═══╝ ██╔══██╗██╔══██║██╔═██╗ ██╔══██║╚════██║██╔══██║
+ ╚██████╔╝██║ ╚═╝ ██║██║     ██║  ██║██║  ██║██║  ██╗██║  ██║███████║██║  ██║
+  ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-<!-- Typing Animation -->
+### ⚡ FRONTEND ENGINEER • REACT & NEXT.JS SPECIALIST • AI APPS
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Building+Scalable+UIs+%F0%9F%9A%80;Next.js+%7C+React+%7C+TypeScript+%E2%9A%A1;AI-Powered+Application+Developer+%F0%9F%A4%96;3%2B+Years+of+Frontend+Excellence+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00F2FE&center=true&vCenter=true&width=650&lines=%3E_+'Building+next-gen+web+applications+with+React+%26+Next.js';%3E_+'Crafting+sleek%2C+high-performance+user+interfaces';%3E_+'Integrating+AI+models+%26+LLMs+into+modern+UIs';%3E_+'3%2B+Years+of+Frontend+Excellence+in+Bengaluru%2C+India'" alt="Terminal Typing" />
 </a>
 
 <br/>
 
-<!-- One-liner hook -->
-<p><i>I build AI-powered web apps that feel magical ✨</i></p>
-
-<!-- Profile Views & Followers -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=omprakashkadur&label=Profile+Views&color=7C3AED&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/omprakashkadur?label=Followers&style=for-the-badge&color=7C3AED&labelColor=1a1a2e" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=omprakashkadur&label=VIEWS&color=00F2FE&style=flat-square)](https://github.com/omprakashkadur)
+[![Followers](https://img.shields.io/github/followers/omprakashkadur?label=FOLLOWERS&style=flat-square&color=7C3AED&labelColor=0d1117)](https://github.com/omprakashkadur)
+[![Open To Work](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-10B981?style=flat-square&labelColor=0d1117)](mailto:kaduromee@gmail.com)
+[![Location](https://img.shields.io/badge/LOCATION-BENGALURU_🇮🇳-3B82F6?style=flat-square&labelColor=0d1117)](https://techtalkswithomee.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+### 💻 `omprakash --info`
 
-```typescript
-const omprakash = {
-  role: "Frontend Developer",
-  experience: "3+ years",
-  location: "Bengaluru, India 🇮🇳",
-  currentFocus: ["Next.js", "AI-driven Applications", "Scalable UI Systems"],
-  portfolio: "https://techtalkswithomee.com",
-  email: "kaduromee@gmail.com",
-  askMeAbout: ["React", "Next.js", "TypeScript", "Frontend Performance"],
-  funFact: "I turn caffeine into pixel-perfect UIs ☕→🎨",
-  openToWork: true,
-};
+```syslog
+┌────────────────────────────────────────────────────────────────────────────────┐
+│  > NAME       : Omprakash K M                                                  │
+│  > ROLE       : Frontend Developer / UI Architect                              │
+│  > EXPERIENCE : 3+ Years of Building Production Web Apps                       │
+│  > STACK      : Next.js 15, React 19, TypeScript, Tailwind CSS, AI SDKs         │
+│  > LOCATION   : Bengaluru, Karnataka, India 🇮🇳                                 │
+│  > PORTFOLIO  : https://techtalkswithomee.com                                  │
+│  > EMAIL      : kaduromee@gmail.com                                            │
+│  > FUN FACT   : Turning caffeine into clean code & fluid animations ☕ ⚡       │
+└────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-> 💼 **I'm currently open to new opportunities** — let's build something amazing together!
+<br/>
 
----
-
-## 🚀 Featured Projects
-
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/omprakashkadur/DevLens">DevLens</a></h3>
-      <p>A modern GitHub profile analyzer with rich data visualizations. Explore developer stats, language breakdowns, and contribution patterns in a beautiful dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/omprakashkadur/DevLens">💻 Code</a>
-      </p>
+    <td width="50%" valign="top">
+      <h4>🎯 Core Philosophy</h4>
+      <p>I specialize in building <b>lightning-fast, visually captivating, and accessible web applications</b>. My focus lies at the intersection of modern frontend architecture, intuitive UX design, and AI integrations.</p>
     </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/omprakashkadur/spoken-flow">Spoken Flow</a></h3>
-      <p>An AI-powered English learning app with structured lessons, progress tracking, and audio recording capabilities. Built for immersive language practice.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/MediaRecorder_API-FF6C37?style=flat" />
-      </p>
-      <p>
-        <a href="https://spoken-flow.vercel.app">🌐 Live Demo</a> • <a href="https://github.com/omprakashkadur/spoken-flow">💻 Code</a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/omprakashkadur/techtalkswithomee_portfolio">Portfolio</a></h3>
-      <p>My personal brand website showcasing projects, blog posts, and professional journey. Built with performance and accessibility in mind.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://techtalkswithomee-portfolio.vercel.app">🌐 Live Demo</a> • <a href="https://github.com/omprakashkadur/techtalkswithomee_portfolio">💻 Code</a>
-      </p>
+    <td width="50%" valign="top">
+      <h4>⚡ What I'm Up To</h4>
+      <ul>
+        <li>🔭 <b>Building:</b> AI-first Web Applications & Custom UI Component Systems</li>
+        <li>🌱 <b>Learning:</b> LLM Agent Workflows, Server Components & Performance Optimization</li>
+        <li>💬 <b>Ask Me About:</b> React, Next.js, TypeScript, State Management & Tailwind</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-### AI & LLM
-<p>
-  <img src="https://img.shields.io/badge/Claude_AI-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
+### 🛠️ Tech Stack Matrix
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omprakashkadur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashkadur&theme=tokyonight&hide_border=true" />
+#### 🚀 Languages & Frameworks
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,styledcomponents,redux&perline=9" alt="Frontend Stack" />
+  </a>
+</p>
+
+#### 🤖 AI, Backend & Databases
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,go,postgres,mongodb,graphql&perline=6" alt="Backend & AI Stack" />
+  </a>
+</p>
+
+#### 🛠️ Tooling & Infrastructure
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman,jest,vite&perline=8" alt="Tools" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### 🏆 Achievements & Badges
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omprakashkadur&theme=flat&no-frame=true&no-background=true&column=6&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📊 GitHub Command Center
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=omprakashkadur&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&title_color=00f2fe&icon_color=00f2fe&text_color=cbd5e1&bg_color=0d1117" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashkadur&theme=dracula&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=omprakashkadur&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&title_color=00f2fe&text_color=cbd5e1&bg_color=0d1117" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=omprakashkadur&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+#### 📈 Contribution Activity
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omprakashkadur&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🤝 Let's Build Something Together
+### 🌐 Connect With Me
 
 <div align="center">
-
-<p>I'm currently <strong>open to new opportunities</strong> — full-time frontend roles, freelance projects, or collaborations</p>
 
 <p>
-  <a href="https://techtalkswithomee.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/omprakash-k-m-926218231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/kadur_omee"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:kaduromee@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://techtalkswithomee.com" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-techtalkswithomee.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/omprakash-k-m-926218231" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-Omprakash_K_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:kaduromee@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-kaduromee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/kadur_omee" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-kadur__omee-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-</div>
+<br/>
 
----
+```
+  ┌─────────────────────────────────────────────────────────────┐
+  │  ⚡ "The best way to predict the future is to invent it."    │
+  └─────────────────────────────────────────────────────────────┘
+```
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-  <sub>⭐ If you find my work interesting, consider giving my repos a star!</sub>
 </div>
