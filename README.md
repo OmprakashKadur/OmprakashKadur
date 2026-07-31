@@ -91,10 +91,10 @@
 
 ---
 
-### 🏆 Achievements & Badges
+### 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omprakashkadur&theme=flat&no-frame=true&no-background=true&column=6&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=omprakashkadur&theme=flat" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -106,22 +106,22 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="top" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=omprakashkadur&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&title_color=00f2fe&icon_color=00f2fe&text_color=cbd5e1&bg_color=0d1117" alt="GitHub Stats" />
+      <img width="100%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=omprakashkadur&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center" valign="top" width="50%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashkadur&theme=dracula&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="Streak Stats" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=omprakashkadur&theme=dracula&hide_border=true" alt="Streak Stats" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=omprakashkadur&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&title_color=00f2fe&text_color=cbd5e1&bg_color=0d1117" alt="Top Languages" />
+<img width="60%" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=omprakashkadur&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
-#### 📈 Contribution Activity
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omprakashkadur&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+#### 📈 Contribution Activity Chart
+<img width="100%" src="https://ghchart.rshah.org/00f2fe/omprakashkadur" alt="Omprakash's Github Contribution Chart" />
 
 </div>
 
