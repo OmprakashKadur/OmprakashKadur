@@ -106,9 +106,6 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="top" width="50%">
-      <img width="100%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=omprakashkadur&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td align="center" valign="top" width="50%">
       <img width="100%" src="https://streak-stats.demolab.com/?user=omprakashkadur&theme=dracula&hide_border=true" alt="Streak Stats" />
     </td>
   </tr>
@@ -116,12 +113,6 @@
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=omprakashkadur&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-
-<br/><br/>
-
-#### 📈 Contribution Activity Chart
-<img width="100%" src="https://ghchart.rshah.org/00f2fe/omprakashkadur" alt="Omprakash's Github Contribution Chart" />
 
 </div>
 
