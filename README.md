@@ -89,31 +89,6 @@
 
 </div>
 
----
-
-### 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=omprakashkadur&theme=flat" alt="GitHub Trophies" />
-</div>
-
----
-
-### 📊 GitHub Command Center
-
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=omprakashkadur&theme=dracula&hide_border=true" alt="Streak Stats" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-
 </div>
 
 ---
