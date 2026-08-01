@@ -12,7 +12,7 @@
 ### ⚡ FRONTEND ENGINEER • REACT & NEXT.JS SPECIALIST • AI APPS
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00F2FE&center=true&vCenter=true&width=650&lines=%3E_+'Building+next-gen+web+applications+with+React+%26+Next.js';%3E_+'Crafting+sleek%2C+high-performance+user+interfaces';%3E_+'Integrating+AI+models+%26+LLMs+into+modern+UIs';%3E_+'3%2B+Years+of+Frontend+Excellence+in+Bengaluru%2C+India'" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00F2FE&center=true&vCenter=true&width=650&lines=%3E_+'Building+next-gen+web+applications+with+React+%26+Next.js';%3E_+'Crafting+sleek%2C+high-performance+user+interfaces';%3E_+'Integrating+AI+models+%26+LLMs+into+modern+UIs';%3E_+'4%2B+Years+of+Frontend+Excellence+in+Bengaluru%2C+India'" alt="Terminal Typing" />
 </a>
 
 <br/>
@@ -32,7 +32,7 @@
 ┌────────────────────────────────────────────────────────────────────────────────┐
 │  > NAME       : Omprakash K M                                                  │
 │  > ROLE       : Frontend Developer / UI Architect                              │
-│  > EXPERIENCE : 3+ Years of Building Production Web Apps                       │
+│  > EXPERIENCE : 4+ Years of Building Production Web Apps                       │
 │  > STACK      : Next.js 15, React 19, TypeScript, Tailwind CSS, AI SDKs         │
 │  > LOCATION   : Bengaluru, Karnataka, India 🇮🇳                                 │
 │  > PORTFOLIO  : https://techtalkswithomee.com                                  │
